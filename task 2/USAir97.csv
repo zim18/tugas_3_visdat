@@ -1,0 +1,333 @@
+id,name,city,country,posx,posy,latitude,longitude,state,source,target,value
+1,Wiley Post Will Rogers Memorial,Barrow,United States,0.4407,0.091,71.2854,-156.766,Alaska,118,201,0.1804
+2,Deadhorse,Deadhorse,United States,0.483,0.1014,70.1947,-148.465,Alaska,118,258,0.1474
+3,Ralph Wien Memorial,Kotzebue,United States,0.411,0.133,66.8847,-162.599,Alaska,118,182,0.0332
+4,Fairbanks International,Fairbanks,United States,0.4861,0.1528,64.8151,-147.856,Alaska,118,152,0.0416
+5,Nome,Nome,United States,0.3965,0.1557,64.5122,-165.445,Alaska,118,162,0.0676
+6,St Mary's,St Mary's,United States,0.4074,0.1791,62.060833,-163.301944,Alaska,47,118,0.1828
+7,Aniak,Aniak,United States,0.4266,0.1837,61.5816,-159.543,Alaska,118,144,0.1231
+8,Anchorage International,Anchorage,United States,0.4752,0.1876,61.1744,-149.996,Alaska,118,263,0.1733
+9,Tuluksak,Tuluksak,United States,0.4193,0.1883,61.102492,-160.960651,Alaska,118,301,0.1366
+10,Akiachak,Akichak,United States,0.4169,0.1901,60.90944,-161.43139,Alaska,118,221,0.0745
+11,Akiak,Akiak,United States,0.418,0.1901,60.9029,-161.231,Alaska,118,321,0.251
+12,Kwethluk,Kwethluk,United States,0.4169,0.1911,60.7903,-161.444,Alaska,118,203,0.1788
+13,Bethel,Bethel,United States,0.4149,0.1913,60.7798,-161.838,Alaska,65,118,0.18
+14,Napaskiak,Napaskiak,United States,0.4152,0.1921,60.7029,-161.778,Alaska,118,306,0.1514
+15,Napakiak,Napakiak,United States,0.4142,0.1922,60.6903,-161.979,Alaska,118,297,0.1305
+16,Merle K (Mudhole) Smith,Cordova,United States,0.4982,0.1941,60.4918,-145.478,Alaska,118,253,0.172
+17,Tuntutuliak,Tuntutuliak,United States,0.4107,0.1956,60.342643,-162.672666,Alaska,118,183,0.1744
+18,Eek,Eek,United States,0.414,0.1967,60.2137,-162.044,Alaska,118,307,0.1508
+19,Kongiganak,Kongiganak,United States,0.4096,0.1992,59.9608,-162.881,Alaska,118,169,0.164
+20,Kwigillingok,Kwigillingok,United States,0.4082,0.2003,59.8765,-163.169,Alaska,118,216,0.0686
+21,Quinhagak,Quinhagak,United States,0.4147,0.2011,59.7551,-161.845,Alaska,118,212,0.0769
+22,Yakutat,Yakutat,United States,0.5278,0.2035,59.5033,-139.66,Alaska,118,274,0.1504
+23,Dillingham,Dillingham,United States,0.4319,0.2079,21.5795,-158.197,Hawaii,92,118,0.0611
+24,King Salmon,King Salmon,United States,0.4413,0.2114,58.6768,-156.649,Alaska,68,118,0.1008
+25,Gustavus,Gustavus,United States,0.548,0.2138,58.4253,-135.707,Alaska,91,118,0.0532
+26,Juneau International,Juneau,United States,0.5537,0.2145,58.355,-134.576,Alaska,118,125,0.0839
+27,Kodiak,Kodiak,United States,0.4625,0.2203,57.75,-152.494,Alaska,118,189,0.0379
+28,St Paul Island,St. Paul Island,United States,0.3722,0.2259,57.1673,-170.22,Alaska,118,305,0.1419
+29,Sitka,Sitka,United States,0.5497,0.227,57.0471,-135.362,Alaska,118,202,0.0688
+30,Port Heiden,Port Heiden,United States,0.4312,0.2278,56.9591,-158.633,Alaska,118,222,0.0622
+31,James A Johnson Petersburg,Petersburg,United States,0.562,0.2293,56.8017,-132.945,Alaska,80,118,0.091
+32,Wrangell,Wrangell,United States,0.565,0.2324,56.4843,-132.37,Alaska,118,273,0.1001
+33,Ketchikan International,Ketchikan,United States,0.5683,0.2432,55.3556,-131.714,Alaska,118,250,0.1652
+34,Sand Point,Sand Point,United States,0.4216,0.2435,55.315,-160.523,Alaska,118,126,0.0085
+35,Cold Bay,Cold Bay,United States,0.4104,0.2446,55.2061,-162.725,Alaska,118,204,0.06
+36,Unalaska,Unalaska,United States,0.3909,0.2571,53.9001,-166.544,Alaska,118,127,0.0212
+37,Eareckson As,Shemya,United States,0.2924,0.2684,52.7123,174.114,Alaska,118,186,0.0471
+38,Adak Naf,Adak Island,United States,0.3395,0.2764,51.878,-176.646,Alaska,118,148,0.0155
+39,Bellingham International,Bellingham,United States,0.615,0.3059,48.7928,-122.538,Washington,118,129,0.0704
+40,Glacier Park International,Kalispell,United States,0.6572,0.3105,48.3105,-114.256,Montana,76,118,0.0797
+41,Minot International,Minot,United States,0.7233,0.311,48.4156,-101.358,North Dakota,78,118,0.0298
+42,William R Fairchild International,Port Angeles,United States,0.6101,0.3123,48.1202,-123.5,Washington,118,163,0.0223
+43,Grand Forks Air Force Base,Grand Forks,United States,0.743,0.3138,47.963889,-97.401111,North Dakota,70,118,0.0289
+44,Grand Forks International,Grand Forks,United States,0.7442,0.3139,47.949167,-97.176111,North Dakota,114,118,0.0065
+45,Spokane International,Spokane,United States,0.6405,0.3171,47.949167,-97.176111,North Dakota,77,118,0.0195
+46,Great Falls International,Great Falls,United States,0.6719,0.3184,47.482,-111.371,Montana,118,261,0.0985
+47,Seattle-Tacoma International,Seattle,United States,0.6162,0.3188,47.449,-122.309,Washington,248,261,0.1093
+48,Pangborn Memorial,Wenatchee,United States,0.6269,0.3192,47.3989,-120.207,Washington,201,261,0.1367
+49,Grant County,Grant County Airport,United States,0.6314,0.321,47.2077,-119.32,Washington,150,261,0.1396
+50,Missoula International,Missoula,United States,0.658,0.3238,46.9163,-114.091,Montana,261,311,0.109
+51,Hector International,Fargo,United States,0.746,0.3238,46.9207,-96.8158,North Dakota,146,261,0.14
+52,Duluth International,Duluth,United States,0.7696,0.3245,46.8421,-92.1936,Minnesota,147,261,0.1383
+53,Bismarck Municipal,Bismarck,United States,0.726,0.3252,46.7727,-100.746,North Dakota,258,261,0.0765
+54,Pullman/Moscow Regional,Pullman,United States,0.6427,0.3254,46.7439,-117.110001,Washington,112,261,0.1131
+55,Helena Regional,Helena,United States,0.6688,0.3268,46.6068000793457,-111.98300170898438,Montana,261,313,0.3292
+56,Yakima Air Terminal,Yakima,United States,0.6252,0.3271,46.5682,-120.544,Washington,182,261,0.0655
+57,Marquette County,Fulton,United States,0.7931,0.3275,43.3508,-76.3881,New York,67,261,0.1162
+58,Lewiston-Nez Perce County,Lewiston,United States,0.6431,0.329,46.3745,-117.015,Idaho,219,261,0.0972
+59,Tri-Cities,BRISTOL,United States,0.6324,0.33,36.4752,-82.4074,Tennessee,261,299,0.0907
+60,Walla Walla Regional,Walla Walla,United States,0.6367,0.3317,46.0949,-118.288,Washington,152,261,0.1122
+61,Bert Mooney,Butte,United States,0.6662,0.333,45.9548,-112.497,Montana,261,293,0.0291
+62,Billings Logan International,Billings,United States,0.6863,0.3344,45.8077,-108.543,Montana,162,261,0.1295
+63,Gallatin Field,Bozeman,United States,0.673,0.3347,45.7775,-111.153,Montana,47,261,0.1894
+64,Eastern Oregon Regional At Pen,Pendleton,United States,0.6338,0.3355,45.6951,-118.841,Oregon,144,261,0.1071
+65,Portland International,Hillsboro,United States,0.6147,0.3365,45.5404,-122.95,Oregon,261,263,0.1026
+66,Salem Municipal Airport/McNary Field,Salem,United States,0.6127,0.343,44.90950012,-123.0029984,Oregon,261,301,0.0876
+67,Minneapolis-St Paul International/Wold-,Minneapolis,United States,0.7644,0.3432,44.882,-93.2218,Minnesota,177,261,0.1152
+68,Bangor International,Bangor,United States,0.8885,0.3439,44.8074,-68.8281,Maine,221,261,0.0972
+69,Central Wisconsin,Wassau,United States,0.7824,0.3442,44.7776,-89.6668,Wisconsin,261,310,0.1079
+70,Cherry Capital,Traverse City,United States,0.8032,0.3446,44.7414,-85.5822,Michigan,232,261,0.0414
+71,Austin Straubel International,Green Bay,United States,0.7903,0.347,44.4851,-88.1296,Wisconsin,261,321,0.2098
+72,Burlington International,Burlington,United States,0.8665,0.3472,42.6907,-88.3046,Wisconsin,261,296,0.0323
+73,Outagamie County,Fulton,United States,0.7883,0.3492,43.3508,-76.3881,New York,123,261,0.0973
+74,Roberts Field,Redmond-Bend,United States,0.6221,0.3492,44.2541,-121.15,Oregon,172,261,0.0623
+75,Mahlon Sweet Field,Eugene,United States,0.6116,0.3505,44.1246,-123.212,Oregon,261,292,0.0442
+76,Rapid City Regional,Rapid City,United States,0.7142,0.3512,44.0453,-103.057,South Dakota,203,261,0.1338
+77,Wittman Regional,Oshkosh,United States,0.7881,0.3518,43.9844,-88.557,Wisconsin,65,261,0.1779
+78,Rochester International,Rochester,United States,0.768,0.3525,43.908333,-92.5,Minnesota,167,261,0.0851
+79,La Crosse Municipal,La Crosse,United States,0.7743,0.3528,43.879,-91.2567,Wisconsin,261,306,0.1047
+80,Portland International Jetport,Portland,United States,0.881,0.355,43.6462,-70.3093,Maine,197,261,0.1363
+81,Jackson Hole,Jackson Hole,United States,0.6751,0.3554,43.6073,-110.738,Wyoming,261,297,0.0329
+82,Joe Foss Field,Sioux Falls,United States,0.7464,0.3557,43.582,-96.7419,South Dakota,246,261,0.1053
+83,Boise Air Terminal /Gowen Field/,Boise,United States,0.6472,0.3558,43.5644,-116.223,Idaho,253,261,0.1064
+84,Mbs International,Saginaw,United States,0.8109,0.3561,43.5329,-84.0796,Michigan,94,261,0.1068
+85,Idaho Falls Regional Airport/Fanning Field,Idaho Falls,United States,0.6683,0.3563,43.513611,-112.070833,Idaho,183,261,0.1369
+86,Friedman Memorial,Hailey,United States,0.657,0.3564,43.5044,-114.296,Idaho,261,307,0.0987
+87,North Bend Municipal,North Bend,United States,0.6063,0.3572,43.417222,-124.262778,Oregon,261,276,0.0487
+88,Muskegon County,Muskegon,United States,0.7999,0.3596,43.1695,-86.2382,Michigan,225,261,0.0241
+89,Oneida County,Rhinelander,United States,0.8552,0.3598,45.6312,-89.4675,Wisconsin,169,261,0.1319
+90,Dane County Regional-Truax Field,Madison,United States,0.7841,0.3599,43.1399,-89.3375,Wisconsin,216,261,0.0321
+91,Greater Rochester International,Rochester,United States,0.8435,0.3601,43.1189,-77.6724,New York,261,284,0.0815
+92,Syracuse Hancock International,Syracuse,United States,0.8515,0.3602,43.1112,-76.1063,New York,212,261,0.1128
+93,Bishop International,Flint,United States,0.8126,0.3615,42.965556,-83.743611,Michigan,261,274,0.0712
+94,General Mitchell International,Milwaukee,United States,0.7914,0.3617,42.9472,-87.8966,Wisconsin,189,261,0.0765
+95,Greater Buffalo International,Portsmouth,United States,0.8381,0.3618,38.8405,-82.8473,Ohio,133,261,0.0806
+96,Manchester,Manchester,United States,0.8753,0.3619,42.932598,-71.435699,New Hampshire,239,261,0.0302
+97,Pocatello Regional,Pocatello,United States,0.6657,0.3621,42.9098,-112.596,Idaho,202,261,0.1097
+98,Natrona County International,Casper,United States,0.6969,0.3621,42.908,-106.464,Wyoming,218,261,0.0923
+99,Kent County International,Fulton,United States,0.8035,0.3623,43.3508,-76.3881,New York,128,261,0.0844
+100,Capital City,Lansing,United States,0.8083,0.3633,42.7787,-84.5874,Michigan,251,261,0.1079
+101,Albany County,Fulton,United States,0.8632,0.3636,43.3508,-76.3881,New York,254,261,0.0255
+102,Waterloo Municipal,Waterloo,United States,0.7685,0.3655,42.5571,-92.4003,Iowa,261,275,0.0278
+103,Tompkins County,Fulton,United States,0.8497,0.3661,43.3508,-76.3881,New York,198,261,0.0455
+104,Twin Falls-Sun Valley Regional,Twin Falls,United States,0.656,0.3662,42.4818,-114.487999,Idaho,222,261,0.072
+105,Detroit City,Parsons,United States,0.8163,0.3669,37.3299,-95.5062,Kansas,261,308,0.0638
+106,Sioux Gateway,Sioux City,United States,0.7482,0.3669,42.4026,-96.3844,Iowa,261,273,0.0809
+107,Dubuque Regional,Dubuque IA,United States,0.7771,0.3669,42.402,-90.7095,Iowa,240,261,0.0549
+108,Rogue Valley International- Medford,Medford,United States,0.6133,0.3672,42.3742,-122.873,Oregon,213,261,0.1213
+109,General Edward Lawrence Logan,Boston,United States,0.8775,0.3673,42.3643,-71.0052,Massachusetts,250,261,0.0996
+110,Worcester Municipal,Worcester,United States,0.873,0.3682,42.2673,-71.8757,Massachusetts,261,286,0.0553
+111,Kalamazoo/Battle Creek International,Kalamazoo,United States,0.8034,0.3685,42.234901428222656,-85.5521011352539,Michigan,261,271,0.0358
+112,Detroit Metropolitan Wayne County,Detroit,United States,0.8146,0.3687,42.2124,-83.3534,Michigan,261,281,0.0495
+113,Binghamton Regional/Edwin A Li,Binghamton,United States,0.8521,0.3688,42.20869827,-75.97979736,New York,261,267,0.0169
+114,Greater Rockford,Portsmouth,United States,0.7853,0.3689,38.8405,-82.8473,Ohio,242,261,0.117
+115,Elmira/Corning Regional,Elmira,United States,0.8475,0.3692,42.1599006652832,-76.8916015625,New York,261,309,0.0645
+116,Klamath Falls International,Redwood Falls,United States,0.6191,0.3693,44.5472,-95.0823,Minnesota,206,261,0.0456
+117,Erie International,Erie,United States,0.8308,0.37,42.0831,-80.1739,Pennsylvania,81,261,0.1239
+118,Chicago O'hare International,Chicago,United States,0.7914,0.371,41.9786,-87.9048,Illinois,220,261,0.0331
+119,Bradley International,Windsor Locks,United States,0.8689,0.3714,41.9389,-72.6832,Connecticut,261,290,0.0363
+120,The Eastern Iowa Airport,Cedar Rapids,United States,0.772,0.3719,41.884694,-91.710806,Iowa,261,266,0.0257
+121,William B. Heilig Field,Scottsbluff,United States,0.7115,0.372,41.874,-103.596,Nebraska,226,261,0.0271
+122,Merrill C Meigs,Nashville,United States,0.7929,0.3721,36.1824,-86.8867,Tennessee,261,270,0.0097
+123,Chicago Midway,Chicago,United States,0.7922,0.3728,41.786,-87.7524,Illinois,142,261,0.1219
+124,Jack Mc Namara Field,Crescent City,United States,0.6064,0.3729,41.7802,-124.237,California,241,261,0.0175
+125,Theodore Francis Green State,Providence,United States,0.8753,0.3734,41.7326,-71.4204,Rhode Island,261,278,0.028
+126,Michiana Rgnl Transportation C,Nashville,United States,0.7995,0.3736,36.1824,-86.8867,Tennessee,261,279,0.0229
+127,Toledo Express,Toledo,United States,0.8123,0.3747,41.5868,-83.8078,Ohio,261,291,0.0328
+128,Des Moines International,Des Moines,United States,0.7621,0.3752,41.534,-93.6631,Iowa,247,261,0.0128
+129,Stewart International,Newburgh,United States,0.8617,0.3755,41.50410079956055,-74.10479736328125,New York,261,304,0.0526
+130,Quad-City,Moline,United States,0.7781,0.376,41.4485,-90.5075,Illinois,184,261,0.0738
+131,Cleveland-Hopkins International,Cleveland,United States,0.8222,0.3764,41.4117,-81.8498,Ohio,261,280,0.0176
+132,Wilkes-Barre/Scranton International,North Wilkesboro,United States,0.8534,0.3771,36.2228,-81.0983,North Carolina,153,261,0.0892
+133,Eppley Airfield,Omaha,United States,0.7507,0.3774,41.3032,-95.8941,Iowa,257,261,0.0164
+134,Tweed-New Haven,New Haven,United States,0.8679,0.3778,41.2637,-72.8868,Connecticut,261,269,0.0127
+135,Youngstown-Warren Regional,Youngstown,United States,0.8282,0.3779,41.2607,-80.6791,Ohio,168,261,0.0818
+136,Westchester County,White Plains,United States,0.8637,0.3797,41.067,-73.7076,New York,118,255,0.0815
+137,Fort Wayne International,Fort Wayne,United States,0.8052,0.3805,40.9785,-85.1951,Indiana,255,261,0.0646
+138,California Redwood Coast-Humboldt County Airport,Arcata,United States,0.607,0.3805,40.978101,-124.109,California,248,255,0.173
+139,Akron-Canton Regional,Akron,United States,0.8243,0.3811,40.9161,-81.4422,Ohio,201,255,0.1969
+140,Lincoln Municipal,Lincoln,United States,0.7463,0.3818,38.9092,-121.351,California,150,255,0.086
+141,University Park,State College Pennsylvania,United States,0.8426,0.3818,40.8493,-77.8487,Pennsylvania,166,255,0.1195
+142,Elko Municipal-J.C. Harris Field,Nashville,United States,0.6494,0.382,36.1824,-86.8867,Tennessee,255,311,0.0779
+143,Long Island Mac Arthur,Islip,United States,0.8668,0.3823,40.7952,-73.1002,New York,146,255,0.0868
+144,Salt Lake City International,Salt Lake City,United States,0.6688,0.3824,40.7884,-111.978,Utah,109,255,0.1078
+145,Burlington Regional,Burlington,United States,0.775,0.3824,42.6907,-88.3046,Wisconsin,147,255,0.0852
+146,La Guardia,New York,United States,0.8629,0.3825,40.7772,-73.8726,New York,255,258,0.1405
+147,Newark International,Newark,United States,0.8614,0.3833,40.6925,-74.1687,New Jersey,112,255,0.0821
+148,Greater Peoria Regional,Portsmouth,United States,0.7823,0.3835,38.8405,-82.8473,Ohio,255,313,0.3924
+149,Lehigh Valley International,Allentown,United States,0.8549,0.3837,40.6521,-75.4408,Pennsylvania,182,255,0.0574
+150,John F Kennedy International,New York,United States,0.8633,0.3838,40.6398,-73.7789,New York,67,255,0.1163
+151,Redding Municipal,Redding,United States,0.6163,0.385,40.509,-122.293,California,219,255,0.1582
+152,Pittsburgh International,Pittsburgh,United States,0.8305,0.3852,40.4915,-80.2329,Pennsylvania,255,299,0.0523
+153,Yampa Valley,Hayden,United States,0.693,0.3853,40.4812,-107.218,Colorado,152,255,0.0688
+154,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,United States,0.7862,0.3853,40.47710037,-88.91590118,Illinois,255,293,0.0657
+155,Purdue University,Lafayette,United States,0.7963,0.3859,40.4123,-86.9369,Indiana,162,255,0.0757
+156,Mercer County,Bluefield,United States,0.8581,0.3872,37.2958,-81.2077,West Virginia,47,255,0.2336
+157,Harrisburg International,Harrisburg,United States,0.8481,0.388,40.1935,-76.7634,Pennsylvania,230,255,0.0232
+158,University Of Illinois-Willard,Champaign,United States,0.7895,0.3895,40.0392,-88.2781,Illinois,179,255,0.0624
+159,Port Columbus International,Columbus,United States,0.8169,0.3899,39.998056,-82.891944,Ohio,144,255,0.156
+160,Quincy Municipal Baldwin Field,Quincy,United States,0.7746,0.3904,39.9427,-91.1946,Illinois,255,263,0.167
+161,James M Cox Dayton International,Dayton,United States,0.8102,0.3908,39.9024,-84.2194,Ohio,255,301,0.0551
+162,Philadelphia International,Philadelphia,United States,0.8559,0.3911,39.8719,-75.2411,Pennsylvania,174,255,0.0659
+163,Capital,Frankfort,United States,0.7824,0.3914,38.1825,-84.9047,Kentucky,177,255,0.0618
+164,Decatur,Bainbridge,United States,0.7865,0.3915,30.9715,-84.6374,Georgia,221,255,0.0357
+165,Chico Municipal,Chico,United States,0.6185,0.3918,39.7954,-121.858,California,176,255,0.0516
+166,Stapleton International,Stapleton,United States,0.7049,0.392,39.761,-104.892,Colorado,255,310,0.0756
+167,Indianapolis International,Indianapolis,United States,0.7996,0.3926,39.9352,-86.045,Indiana,232,255,0.0313
+168,Eagle County Regional,Vail,United States,0.6946,0.3933,39.6426,-106.918,Colorado,131,255,0.0753
+169,Reno/Tahoe International,Reno,United States,0.6291,0.3947,39.49909973144531,-119.76799774169922,Nevada,255,321,0.1729
+170,Atlantic City International,Atlantic City,United States,0.8593,0.3951,39.4576,-74.5772,New Jersey,255,296,0.0672
+171,Hulman Regional,Terre Haute,United States,0.7944,0.3951,39.4515,-87.3076,Indiana,123,255,0.0796
+172,Kansas City International,Kansas City,United States,0.7567,0.3966,39.2976,-94.7139,Missouri,217,255,0.0263
+173,Aspen-Pitkin Co/Sardy Field,Aspen,United States,0.6948,0.3973,39.2232,-106.869,Colorado,172,255,0.0752
+174,Baltimore-Washington International,Kelso,United States,0.8486,0.3978,46.118,-122.898,Washington,255,292,0.0458
+175,Walker Field,Grand Junction,United States,0.6864,0.3983,39.1225,-108.526667,Colorado,65,255,0.2254
+176,Cincinnati/Northern Kentucky International,Cincinnati,United States,0.8079,0.399,39.0488,-84.6678,Kentucky,167,255,0.0588
+177,Washington Dulles International,Washington,United States,0.8446,0.4,38.9445,-77.4558,Virginia,255,306,0.0701
+178,Lake Tahoe,South Lake Tahoe,United States,0.628,0.4005,38.8939,-119.995,California,255,297,0.0816
+179,Washington National,Washington,United States,0.8467,0.4008,38.8521,-77.0377,District of Columbia,246,255,0.1689
+180,Columbia Regional,The Dalles,United States,0.7694,0.4012,45.6185,-121.167,Washington,119,255,0.0992
+181,City Of Colorado Springs Municipal,Colorado Springs,United States,0.7059,0.4013,38.8058,-104.701,Colorado,253,255,0.1703
+182,Lambert-St Louis International,St. Louis,United States,0.7789,0.4018,38.7487,-90.37,Missouri,94,255,0.0906
+183,Sacramento Metropolitan,Fostoria,United States,0.6198,0.4023,41.1908,-83.3945,Ohio,255,288,0.0748
+184,Gunnison County,Fulton,United States,0.6945,0.4039,43.3508,-76.3881,New York,161,255,0.0598
+185,Sonoma County,Santa Rosa,United States,0.6136,0.4041,38.509,-122.813,California,159,255,0.0612
+186,Yeager,Charleston,United States,0.8235,0.4054,38.3731,-81.5932,West Virginia,255,307,0.0692
+187,Tri-State/Milton J.Ferguson Fi,Huntington,United States,0.8186,0.4055,38.3667,-82.558,West Virginia,95,255,0.0934
+188,Pueblo Memorial,Pueblo,United States,0.7069,0.4062,38.2891,-104.497,Colorado,255,276,0.1132
+189,Louisville International,Louisville,United States,0.8024,0.4073,38.1744,-85.736,Kentucky,225,255,0.0691
+190,Charlottesville-Albemarle,Charlottesville VA,United States,0.8395,0.4077,38.1386,-78.4529,Virginia,216,255,0.0633
+191,Evansville Regional,Evansville,United States,0.7933,0.4086,38.037,-87.5324,Indiana,255,284,0.0332
+192,Blue Grass,Lexington KY,United States,0.8082,0.4086,38.0365,-84.6059,Kentucky,212,255,0.0521
+193,Stockton Metropolitan,Stockton,United States,0.6216,0.41,37.8942,-121.238,California,92,255,0.0998
+194,Greenbrier Valley,Lewisburg,United States,0.8296,0.4103,37.8583,-80.3995,West Virginia,91,255,0.0968
+195,Williamson County Regional,Marion,United States,0.7858,0.4114,37.755,-89.0111,Illinois,125,255,0.1017
+196,Forney Aaf,Fort Rucker/Ozark,United States,0.7698,0.4115,31.2757,-85.7134,Alabama,255,256,0.0118
+197,Metropolitan Oakland International,Oakland,United States,0.6166,0.4117,37.7213,-122.221,California,189,255,0.0438
+198,Wichita Mid-Continent,Philipsburg,United States,0.7429,0.4123,40.8844,-78.0873,Pennsylvania,133,255,0.0936
+199,Modesto City-County--Harry Sha,Modesto,United States,0.6231,0.4126,37.6258,-120.954,California,255,305,0.0605
+200,Mammoth Lakes,Mammoth Lakes,United States,0.6339,0.4126,37.62409973,-118.8379974,California,239,255,0.041
+201,San Francisco International,San Francisco,United States,0.6159,0.4126,37.619,-122.375,California,202,255,0.0517
+202,Richmond International,New Richmond,United States,0.8453,0.4137,45.1483,-92.5381,Wisconsin,218,255,0.0327
+203,San Jose International,San Jose,United States,0.6181,0.4151,37.362778,-121.929167,California,255,260,0.0234
+204,Roanoke Regional/Woodrum Field,Roanoke,United States,0.8318,0.4154,37.3255,-79.975403,Virginia,157,255,0.0738
+205,Merced Municipal/Macready Fiel,Merced,United States,0.6253,0.4158,37.2847,-120.514,California,237,255,0.0165
+206,Springfield Regional,Springfield,United States,0.7635,0.4162,39.8403,-83.8402,Ohio,222,255,0.0208
+207,Cape Girardeau Regional,Cape Girardeau,United States,0.7829,0.4164,37.2253,-89.5708,Missouri,255,322,0.1767
+208,Durango-La Plata County,Durango,United States,0.6903,0.4171,37.1515,-107.754,Colorado,249,255,0.0171
+209,Joplin Regional,Joplin,United States,0.7578,0.4171,37.1518,-94.4983,Missouri,255,273,0.0219
+210,Newport News/Williamsburg Inte,Newport,United States,0.8495,0.4173,44.5804,-124.058,Oregon,255,298,0.046
+211,Barkley Regional,PADUCAH,United States,0.787,0.418,37.0608,-88.7738,Kentucky,240,255,0.0152
+212,Norfolk International,Norfolk,United States,0.851,0.4196,36.9376,-76.2893,Virginia,255,287,0.031
+213,Fresno Air Terminal,Fresno,United States,0.6294,0.4207,36.77619934082031,-119.71800231933594,California,255,283,0.0453
+214,Monterey Peninsula,Monterey,United States,0.6186,0.4225,36.587,-121.843,California,255,286,0.0334
+215,Tri-Cities Regional Tn/Va,BRISTOL,United States,0.8194,0.4236,36.4752,-82.4074,Tennessee,255,271,0.0315
+216,Tulsa International,Tulsa,United States,0.7507,0.4262,36.1984,-95.8881,Oklahoma,192,255,0.042
+217,Nashville International,Nashville,United States,0.7976,0.4269,36.1245,-86.6782,Tennessee,255,281,0.0342
+218,Piedmont Triad International,Greensboro,United States,0.832,0.4272,36.0978,-79.9373,North Carolina,255,300,0.0564
+219,Mc Carran International,Eastover,United States,0.6526,0.4273,33.9208,-80.8013,South Carolina,137,255,0.0702
+220,Drake Field,Fayetteville,United States,0.7595,0.4281,36.00510025024414,-94.17009735107422,Arkansas,255,267,0.0493
+221,Raleigh-Durham International,Raleigh-durham,United States,0.8378,0.4293,35.8776,-78.7875,North Carolina,127,255,0.076
+222,Mc Ghee Tyson,Eastover,United States,0.8113,0.4299,33.9208,-80.8013,South Carolina,234,255,0.0139
+223,Asheville Regional,Asheville,United States,0.8187,0.4335,35.4362,-82.5418,North Carolina,223,255,0.0196
+224,Meadows Field,Bakersfield,United States,0.6327,0.4335,35.4336,-119.057,California,132,255,0.0858
+225,Will Rogers World,Oklahoma City,United States,0.742,0.4339,35.3931,-97.6007,Oklahoma,255,295,0.0394
+226,Fort Smith Regional,Fort Smith,United States,0.7585,0.4344,35.336667,-94.3675,Arkansas,215,255,0.0289
+227,Kinston Regional Jetport At Stallings Field,Kinston,United States,0.8438,0.4345,35.3314,-77.6088,North Carolina,255,272,0.0163
+228,San Luis Obispo County-Mc Ches,San Luis Obispo,United States,0.6247,0.4354,35.2368,-120.642,California,129,255,0.0917
+229,Amarillo International,Amarillo,United States,0.7211,0.4356,35.2194,-101.706,Texas,255,265,0.0111
+230,Charlotte/Douglas International,Charlotte,United States,0.8268,0.4356,35.2140007019043,-80.94309997558594,North Carolina,255,266,0.0403
+231,Flagstaff Pulliam,Flagstaff,United States,0.6704,0.4363,35.1385,-111.671,Arizona,255,289,0.0334
+232,Memphis International,Millington,United States,0.7808,0.4372,35.3567,-89.8703,Tennessee,184,255,0.1237
+233,Albuquerque International,Albuquerque,United States,0.6961,0.4373,35.0402,-106.609,New Mexico,118,248,0.1733
+234,Lovell Field,Chattanooga,United States,0.8052,0.4373,35.0353,-85.2038,Tennessee,201,248,0.0406
+235,Fayetteville Regional/Grannis,Fayetteville,United States,0.8374,0.4377,34.9912,-78.8803,North Carolina,248,311,0.2091
+236,Santa Maria Pub/Capt G Allan H,Santa Maria,United States,0.6256,0.4386,34.8989,-120.457,California,248,258,0.0329
+237,Greenville-Spartanburg,Greenville,United States,0.8204,0.4386,34.8957,-82.2189,South Carolina,182,248,0.15
+238,Albert J Ellis,Jacksonville NC,United States,0.8438,0.4393,34.8292,-77.6121,North Carolina,67,248,0.1655
+239,Adams Field,Steamboat Springs,United States,0.7694,0.4402,40.5163,-106.866,Colorado,248,299,0.1961
+240,Huntsville International-Carl T Jones F,Huntsville,United States,0.7972,0.4411,34.6372,-86.7751,Alabama,152,248,0.2042
+241,Lawton Municipal,Lawton,United States,0.7379,0.4418,34.5677,-98.4166,Oklahoma,162,248,0.227
+242,Santa Barbara Municipal,Santa Barbara,United States,0.6288,0.4431,34.4262,-119.84,California,47,248,0.1305
+243,New Hanover International,Wilmington,United States,0.8423,0.4446,34.270556,-77.9025,North Carolina,144,248,0.0731
+244,Oxnard,Oxnard,United States,0.632,0.4453,34.2008,-119.207,California,248,263,0.0131
+245,Burbank-Glendale-Pasadena,Glendale,United States,0.6363,0.4453,33.5269,-112.295,Arizona,248,301,0.1914
+246,Ontario International,Ontario,United States,0.6402,0.4467,44.0205,-117.014,Oregon,232,248,0.1451
+247,Sheppard Air Force Base/Wichita Falls Municipal,Wichita Falls,United States,0.7375,0.4474,33.9888,-98.4919,Texas,172,248,0.131
+248,Los Angeles International,Los Angeles,United States,0.6361,0.4478,33.9425,-118.408,California,248,292,0.1482
+249,Columbia Metropolitan,Columbia,United States,0.826,0.4478,33.9388,-81.1195,South Carolina,203,248,0.0373
+250,Palm Springs Regional,Palm Springs,United States,0.6457,0.4489,33.8297,-116.507,California,65,248,0.1133
+251,Long Beach /Daugherty Field/,Long Beach,United States,0.6374,0.449,33.8177,-118.152,California,197,248,0.041
+252,Myrtle Beach International,Myrtle Beach,United States,0.8371,0.4503,33.6797,-78.9283,South Carolina,248,253,0.0037
+253,John Wayne Airport-Orange County,Santa Ana,United States,0.6388,0.4503,33.6757,-117.868,California,248,316,0.2303
+254,Lubbock International,Lubbock,United States,0.7205,0.4504,33.6636,-101.823,Texas,94,248,0.1776
+255,The William B Hartsfield Atlanta,Atlanta,United States,0.8091,0.4506,33.6367,-84.4281,Georgia,183,248,0.0483
+256,Birmingham International,Birmingham,United States,0.7973,0.4514,33.5629,-86.7535,Alabama,245,248,0.0025
+257,Texarkana Regional-Webb Field,Texarkana,United States,0.7604,0.4524,33.4537,-93.991,Arkansas,169,248,0.0536
+258,Phoenix Sky Harbor International,Phoenix,United States,0.6686,0.4526,33.4343,-112.012,Arizona,248,274,0.0418
+259,Bush Field,Bush Field,United States,0.8216,0.4532,33.3699,-81.9645,Georgia,248,250,0.0097
+260,Charleston Air Force Base/International,Charleston,United States,0.8314,0.4577,32.7009,-80.0029,South Carolina,242,248,0.0087
+261,Dallas/Fort Worth International,Fort Worth,United States,0.7449,0.4578,32.9876,-97.3188,Texas,214,248,0.0308
+262,Dallas Love Field,Dallas,United States,0.7458,0.4582,32.8471,-96.8518,Texas,248,331,0.5326
+263,San Diego International-Lindbergh Field,San Diego,United States,0.6423,0.4593,32.7336,-117.19,California,244,248,0.0048
+264,Yuma Mcas/Yuma International,Yuma,United States,0.6554,0.46,32.6566,-114.606,Arizona,168,248,0.08
+265,Columbus Metropolitan,Columbus,United States,0.8065,0.4614,32.5163,-84.9389,Georgia,182,201,0.1634
+266,Monroe Regional,Monroe,United States,0.7703,0.4614,42.6149,-89.5904,Wisconsin,144,201,0.0609
+267,Shreveport Regional,Shreveport,United States,0.7612,0.4621,32.5402,-93.745,Louisiana,201,203,0.0033
+268,Abilene Regional,Abilene,United States,0.7314,0.4624,32.4113,-99.6819,Texas,197,201,0.0011
+269,Gregg County,Fulton,United States,0.7567,0.4626,43.3508,-76.3881,New York,201,253,0.0441
+270,Tyler Pounds Field,Tyler,United States,0.7532,0.4629,32.3541,-95.4024,Texas,183,201,0.011
+271,Jackson International,Jackson,United States,0.7803,0.4634,42.2598,-84.4594,Michigan,178,201,0.0171
+272,Dannelly Field,Montgomery,United States,0.7991,0.4635,32.30059814,-86.39399719,Alabama,185,201,0.0088
+273,Savannah International,Savannah,United States,0.8255,0.4651,32.1276,-81.2021,Georgia,201,236,0.0278
+274,Tucson International,Tucson,United States,0.6741,0.4652,32.1161,-110.941,Arizona,118,150,0.073
+275,Midland International,Midland,United States,0.7186,0.4669,31.9425,-102.202,Texas,150,248,0.236
+276,El Paso International,El Paso,United States,0.6973,0.4682,31.8072,-106.378,Texas,150,201,0.2491
+277,Waco Regional,Waco,United States,0.7439,0.47,31.6113,-97.2305,Texas,150,311,0.1456
+278,Alexandria Esler Regional,Alexandria,United States,0.769,0.4721,31.3274,-92.5498,Louisiana,146,150,0.0014
+279,Mathis Field,San Angelo,United States,0.7273,0.4725,31.3577,-100.496,Texas,150,258,0.2065
+280,Robert Gray Army Air Field Airport,Killen,United States,0.7416,0.4751,31.067199707,-97.82890319820001,Texas,150,182,0.0863
+281,Mobile Regional,Mobile,United States,0.7897,0.4788,33.1119,-112.269,Arizona,67,150,0.1069
+282,Easterwood Field,College Station,United States,0.7483,0.4798,30.5886,-96.3638,Texas,150,219,0.2151
+283,"Baton Rouge Metropolitan, Ryan",Baton Rouge,United States,0.7749,0.4803,30.5332,-91.1496,Louisiana,150,299,0.1227
+284,Jacksonville International,Jacksonville,United States,0.8231,0.4807,30.3363,-81.5144,Florida,150,152,0.0328
+285,Eglin Air Force Base,Valparaiso,United States,0.7984,0.4808,30.489444,-86.542222,Florida,150,162,0.0104
+286,Pensacola Regional,Pensacola,United States,0.7951,0.4809,30.4734,-87.1866,Florida,47,150,0.2555
+287,Tallahassee Regional,Tallahassee,United States,0.8095,0.4816,30.3965,-84.3503,Florida,144,150,0.1945
+288,Robert Mueller Municipal,Poteau,United States,0.7415,0.4826,35.0216,-94.6213,Oklahoma,150,263,0.2335
+289,Panama City-Bay Co International,Panama City,United States,0.8027,0.4834,30.2121,-85.6828,Florida,150,301,0.1289
+290,Lafayette Regional,Lafayette,United States,0.7706,0.4835,30.2053,-91.9876,Louisiana,150,221,0.0522
+291,Lake Charles Regional,Lake Charles,United States,0.7643,0.4842,30.1261,-93.2233,Louisiana,150,321,0.2158
+292,New Orleans International/Moisant Field/,New Orleans,United States,0.7794,0.4855,29.8253,-90.035,Louisiana,150,292,0.1318
+293,Houston Intercontinental,Perry,United States,0.7535,0.4856,32.5106,-83.7673,Georgia,150,306,0.1371
+294,Jefferson County,Fulton,United States,0.7602,0.4859,43.3508,-76.3881,New York,150,212,0.0379
+295,Gainesville Regional,Gainesville,United States,0.8201,0.4884,29.6901,-82.2718,Florida,92,150,0.0264
+296,William P Hobby,Houston,United States,0.7538,0.4888,29.6454,-95.2789,Texas,91,150,0.0309
+297,San Antonio International,San Antonio,United States,0.7376,0.4899,29.812700271606445,-98.42530059814453,Texas,150,202,0.0349
+298,Daytona Beach International,Daytona Beach,United States,0.8263,0.4933,29.1799,-81.0581,Florida,150,322,0.2178
+299,Orlando International,Orlando,United States,0.825,0.5004,28.4356,-81.4731,Florida,150,324,0.2193
+300,Melbourne International,Melbourne,United States,0.8284,0.5036,28.1028,-80.6453,Florida,118,166,0.089
+301,Tampa International,Tampa,United States,0.8188,0.5048,27.9755,-82.5332,Florida,166,261,0.077
+302,St Petersburg/Clearwater International,New York,United States,0.818,0.5054,40.7545,-74.0071,New Jersey,166,248,0.0886
+303,Corpus Christi International,Corpus Christi,United States,0.7425,0.5067,27.6926,-97.2911,Texas,166,201,0.0914
+304,Laredo International,Laredo,United States,0.7325,0.5089,27.5438,-99.4616,Texas,150,166,0.1586
+305,Sarasota/Bradenton International,Sarasota,United States,0.8186,0.5103,27.39539909362793,-82.55439758300781,Florida,166,311,0.1832
+306,Palm Beach International,West Palm Beach,United States,0.8312,0.5171,26.593,-80.0851,Florida,146,166,0.1583
+307,Southwest Florida International,Fort Myers,United States,0.8227,0.5185,26.5362,-81.7552,Florida,147,166,0.1567
+308,Rio Grande Valley International,Harlingen,United States,0.7417,0.5215,26.227222,-97.655,Texas,166,258,0.0706
+309,Mc Allen Miller International,Mcallen,United States,0.7388,0.522,26.1758,-98.2386,Texas,112,166,0.1121
+310,Fort Lauderdale/Hollywood International,Fort Lauderdale,United States,0.8309,0.523,26.0725,-80.152778,Florida,166,313,0.3226
+311,Miami International,Miami,United States,0.8302,0.5256,25.7932,-80.2906,Florida,166,182,0.0746
+312,Lihue,Lihue,United States,0.4276,0.5621,21.976,-159.339,Hawaii,67,166,0.077
+313,Honolulu International,Honolulu,United States,0.4348,0.5684,21.32062,-157.924228,Hawaii,166,219,0.0631
+314,Molokai,Molokai,United States,0.439,0.57,21.1529,-157.096,Hawaii,166,299,0.1618
+315,Kapalua,Lahania-kapalua,United States,0.4412,0.5718,20.9629,-156.673,Hawaii,152,166,0.1258
+316,Kahului,Kahului,United States,0.4424,0.5724,20.8986,-156.43,Hawaii,166,293,0.1055
+317,Lanai,Lanai,United States,0.4398,0.5735,20.7856,-156.951,Hawaii,162,166,0.151
+318,Keahole-Kona International,Kona,United States,0.4444,0.5835,19.7388,-156.046,Hawaii,47,166,0.115
+319,Hilo International,Hilo,United States,0.4495,0.5837,19.7214,-155.048,Hawaii,144,166,0.0374
+320,Rafael Hernandez,Aguadilla,Puerto Rico,0.8972,0.5954,18.4949,-67.1294,Puerto Rico,166,263,0.0919
+321,Luis Munoz Marin International,San Juan,Puerto Rico,0.9029,0.5959,18.4394,-66.0018,Puerto Rico,166,301,0.1603
+322,Cyril E King,St. Thomas,Virgin Islands,0.9082,0.5969,18.3373,-64.9734,Virgin Islands,166,177,0.1399
+323,Eugenio Maria De Hostos,Mayaguez,Puerto Rico,0.8971,0.5977,18.2557,-67.1485,Puerto Rico,166,232,0.0883
+324,Mercedita,Ponce,Puerto Rico,0.9001,0.6,18.0083,-66.563,Puerto Rico,166,296,0.1085
+325,Alexander Hamilton,Columbia,United States,0.9091,0.6029,33.9705,-80.9952,South Carolina,123,166,0.0894
+326,Johnston Atoll,Johnston Island,Johnston Atoll,0.3757,0.6122,16.7286,-169.534,Johnston Atoll,166,172,0.052
+327,Saipan International,Saipan,Northern Mariana Islands,0.1479,0.6276,15.119,145.729,Northern Mariana Islands,166,292,0.1196
+328,Rota International,Rota,Northern Mariana Islands,0.1454,0.6366,14.1743,145.243,Northern Mariana Islands,166,203,0.0898
+329,Antonio B. Won Pat International Airport,Andersen,Guam,0.1431,0.6432,13.4834003448,144.796005249,Guam,65,166,0.1059
+330,Babelthuap/Koror,Babelthuap,Palau,0.0909,0.7017,7.36731,134.544236,Palau,166,167,0.0947
+331,Pago Pago International,Pago Pago,American Samoa,0.3697,0.909,-14.331,-170.71,American Samoa,166,197,0.0905
+332,West Tinian,New York,United States,0.1473,0.6288,40.7545,-74.0071,New Jersey,166,297,0.1032
